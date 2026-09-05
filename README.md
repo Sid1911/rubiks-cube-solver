@@ -4,6 +4,10 @@ A command-line Rubik's Cube solver written in pure Python. You type in the color
 
 No external libraries required — just Python.
 
+## Demo
+
+[![Demo video](https://img.youtube.com/vi/3Ga7gIq9M4Q/0.jpg)](https://www.youtube.com/watch?v=3Ga7gIq9M4Q)
+
 ## How it works
 
 The solver represents the cube as six faces of nine stickers each, using single-letter color codes:
